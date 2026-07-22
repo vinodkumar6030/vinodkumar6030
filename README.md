@@ -14,12 +14,9 @@
 
 ---
 
-<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ## 🧑‍💻 About Me
 
-
-python
+```python
 class VinodKumar:
     def __init__(self):
         self.name       = "Vinod Kumar"
@@ -36,9 +33,7 @@ class VinodKumar:
 
 me = VinodKumar()
 me.say_hi()
-` ` `
-
-<br clear="right"/>
+```
 
 ---
 
@@ -153,6 +148,8 @@ me.say_hi()
 
 ### 💬 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=fadeIn)
 
