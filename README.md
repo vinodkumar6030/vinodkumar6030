@@ -15,7 +15,9 @@
 ---
 
 <div align="center">
-<img src="https://github.com/vinodkumar6030.png" width="150" style="border-radius:50%"/>
+ <a href="https://github.com/vinodkumar6030">
+    <img src="https://github.com/vinodkumar6030.png?size=200" width="200" height="200" style="border-radius:50%;" alt="Vinod Kumar"/>
+  </a>
   
   ### 👨‍💻 Vinod Kumar
   #### Full Stack Developer | India 🇮🇳
