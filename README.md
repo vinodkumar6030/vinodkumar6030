@@ -18,7 +18,8 @@
 
 ## 🧑‍💻 About Me
 
-```python
+```
+python
 class VinodKumar:
     def __init__(self):
         self.name       = "Vinod Kumar"
