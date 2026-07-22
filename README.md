@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-```
+
 python
 class VinodKumar:
     def __init__(self):
