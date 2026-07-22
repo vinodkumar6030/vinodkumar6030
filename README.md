@@ -13,16 +13,18 @@
 </div>
 
 ---
-
 <div align="center">
- <a href="https://github.com/vinodkumar6030">
+  <a href="https://github.com/vinodkumar6030">
     <img src="https://github.com/vinodkumar6030.png?size=200" width="200" height="200" style="border-radius:50%;" alt="Vinod Kumar"/>
   </a>
-  
-  ### 👨‍💻 Vinod Kumar
-  #### Full Stack Developer | India 🇮🇳
-</div>
 
+  <h3>👨‍💻 Vinod Kumar Inakollu</h3>
+  <p><b>Full Stack Developer | India 🇮🇳</b></p>
+
+  <a href="https://github.com/vinodkumar6030">
+    <img src="https://img.shields.io/badge/Follow%20Me-%40vinodkumar6030-181717?style=for-the-badge&logo=github" />
+  </a>
+</div>
 ---
 
 ## 🧑‍💻 About Me
