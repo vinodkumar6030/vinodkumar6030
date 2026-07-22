@@ -81,17 +81,7 @@ me.say_hi()
   <img src="https://streak-stats.demolab.com?user=vinodkumar6030&theme=tokyonight&border_radius=15" alt="GitHub Streak"/>
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vinodkumar6030&theme=tokyonight&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
