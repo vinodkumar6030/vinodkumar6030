@@ -15,7 +15,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/vinodkumar6030.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #667eea; padding: 4px;" alt="Vinod Kumar Profile Photo"/>
+<img src="https://github.com/vinodkumar6030.png" width="150" style="border-radius:50%"/>
   
   ### 👨‍💻 Vinod Kumar
   #### Full Stack Developer | India 🇮🇳
